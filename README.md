@@ -3,7 +3,8 @@
     <a href="https://github.com/Miyanoo/Miyanoo.github.io/archive/master.zip"><img src="https://badgen.net/github/forks/Miyanoo/Miyanoo.github.io?icon=telegram&color=4ab8a1"></a>
 </div>
 <br>
-### welcome to Miyanoo's personal website!
+<a href="https://miyanoo.github.io/">blog main page</a>
+welcome to Miyanoo's personal website!
 
 <h3><a href="https://github.com/Miyanoo/nacos-discovery">spring-cloud-nacos-dubbo 微服务学习记录</a></h3>
 
